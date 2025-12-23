@@ -30,7 +30,7 @@ const Gallery: React.FC = () => {
     <section id="gallery" className="space-y-12">
       <div className="flex items-center gap-4">
         <h2 className="text-xl font-bold text-green-500 border-b-2 border-green-500 pb-1">
-          > 錯誤圖鑑 / BUG GALLERY
+          &gt;錯誤圖鑑 / BUG GALLERY
         </h2>
         <div className="flex-1 h-px bg-green-900/50"></div>
       </div>
