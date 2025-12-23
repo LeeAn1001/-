@@ -1,0 +1,7 @@
+{
+  "name": "Cyber Hunt | 城市邊界狩獵行動",
+  "description": "一個具備 Cyberpunk 數位美學的活動宣傳單頁網站，結合即時環境掃描與沈浸式視覺效果。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
