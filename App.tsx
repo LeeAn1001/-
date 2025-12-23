@@ -46,10 +46,10 @@ const App: React.FC = () => {
           
           <div className="space-y-2 mb-10 h-32 overflow-hidden">
             {bootLog.map((log, i) => (
-              <p key={i} className="text-green-500/80 text-xs font-mono">
-                [SYSTEM] > {log}
-              </p>
-            ))}
+  <p key={i} className="text-green-500/80 text-xs font-mono">
+    [SYSTEM] &gt; {log}
+  </p>
+))}
             {bootLog.length === 0 && (
               <p className="text-green-500/40 text-xs font-mono animate-blink">
                 _ WAITING FOR USER INPUT...
