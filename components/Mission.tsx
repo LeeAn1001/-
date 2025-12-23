@@ -47,9 +47,7 @@ const Mission: React.FC = () => {
     <section id="mission" className="space-y-12">
       <div className="flex items-center gap-4">
         <h2 className="text-xl font-bold text-green-500 border-b-2 border-green-500 pb-1">
-         <h2 className="text-xl font-bold text-green-500 border-b-2 border-green-500 pb-1">
-  &gt; 任務情資 / MISSION BRIEFING
-</h2>
+          &gt; 任務情資 / MISSION BRIEFING
         </h2>
         <div className="flex-1 h-px bg-green-900/50"></div>
       </div>

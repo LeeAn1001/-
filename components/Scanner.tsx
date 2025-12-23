@@ -58,9 +58,7 @@ const Scanner: React.FC = () => {
     <section id="scanner" className="relative group">
       <div className="flex items-center gap-4 mb-8">
         <h2 className="text-xl font-bold text-green-500 border-b-2 border-green-500 pb-1">
-         <h2 className="text-xl font-bold text-green-500 border-b-2 border-green-500 pb-1">
-  &gt; 環境掃描儀 / STATUS
-</h2>
+          &gt; 環境掃描儀 / STATUS
         </h2>
         <div className="flex-1 h-px bg-green-900/50"></div>
       </div>
